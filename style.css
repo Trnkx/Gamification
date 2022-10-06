@@ -1,0 +1,50 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body{
+  margin:0;
+  
+}
+header{
+  background-color:rgb(6, 23, 31);
+  height:50px;
+  padding:1cm;
+  color:#ffffff;
+}
+.text{
+  display:flex;
+}
+nav{
+  background-color:black;
+  width: 10vw;
+  color:white;
+  padding:20px;
+}
+article{
+  padding:20px;
+  width:500vw; 
+  color:white;
+  background-color:rgb(36, 36, 36);
+  height:850px;
+}
+aside{
+  background-color:#000000;
+  color:white;
+  padding:20px;
+}
+.P{
+  width:250px;
+  display:flex;
+  height:150px;
+}
+.active{
+  color:greenyellow;
+  font-weight:bold;
+}
+<html>
+<body bg color="lavender">
+<h1 align="center"> </h1>
+<img src="food.gif">  </img>
+</body>
+</html>
