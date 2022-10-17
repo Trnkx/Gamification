@@ -17,10 +17,10 @@ header{
 }
 nav{
   background-color:black;
-  width: 10vw;
+  width: 36vw;
   color:white;
-  padding:20px;
-}
+  padding:15px;
+ }
 article{
   padding:20px;
   width:500vw; 
@@ -31,7 +31,7 @@ article{
 aside{
   background-color:#000000;
   color:white;
-  padding:20px;
+  padding:25px;
 }
 .P{
   width:250px;
@@ -42,9 +42,3 @@ aside{
   color:greenyellow;
   font-weight:bold;
 }
-<html>
-<body bg color="lavender">
-<h1 align="center"> </h1>
-<img src="food.gif">  </img>
-</body>
-</html>
